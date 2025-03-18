@@ -523,7 +523,7 @@
 		)
 		(property "Value" "Brake_Relay"
 			(at 7.2525 -3.2805 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "fde1ecf0-42ea-4748-a4df-692282f3e759")
 			(effects
 				(font
@@ -1188,7 +1188,7 @@
 		)
 		(property "Value" "Turn_Relay"
 			(at 7 -3.5345 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "93a2c73c-df22-42a0-aeca-a5fbfcba7d01")
 			(effects
 				(font
@@ -2255,7 +2255,7 @@
 		)
 		(property "Value" "NE555P"
 			(at 3.81 9.95 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "29c84943-32f4-4ccd-874d-ee7796b0caf9")
 			(effects
 				(font
@@ -2547,7 +2547,7 @@
 		)
 		(property "Value" "Turn_in+"
 			(at 0 2.33 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "eea8b802-4cf8-46d6-8fa5-fe0de27abf1f")
 			(effects
 				(font
@@ -2791,7 +2791,7 @@
 		)
 		(property "Value" "Brake_out+"
 			(at 0 2.33 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "d69e2439-cc5b-466f-b474-26b8e9814854")
 			(effects
 				(font
@@ -3035,7 +3035,7 @@
 		)
 		(property "Value" "Ground"
 			(at 0 1.56 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "c60b99a9-6fcb-4685-a390-d5aec1d1f744")
 			(effects
 				(font
@@ -3283,7 +3283,7 @@
 		)
 		(property "Value" "Run_out+"
 			(at 0 2.33 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "00fc86a0-9958-4fc1-84aa-163b978647ac")
 			(effects
 				(font
@@ -3527,7 +3527,7 @@
 		)
 		(property "Value" "Running_Relay"
 			(at 6.7445 -3.5345 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "7d7787b6-03d5-4f13-8d0f-ed39420b02b3")
 			(effects
 				(font
@@ -3991,7 +3991,7 @@
 		)
 		(property "Value" "9v_in"
 			(at 0 1.56 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "5f503d84-8844-4a2c-99b3-5fb52042ef76")
 			(effects
 				(font
@@ -4239,7 +4239,7 @@
 		)
 		(property "Value" "Brake_in+"
 			(at 0 2.33 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "1b3ad868-8a24-4b27-a7e5-0c8ba4e5fe8f")
 			(effects
 				(font
@@ -4483,7 +4483,7 @@
 		)
 		(property "Value" "Turn_out+"
 			(at 0 2.33 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "2384e29c-905b-457d-8191-115338a11ccd")
 			(effects
 				(font
@@ -4727,7 +4727,7 @@
 		)
 		(property "Value" "Run_in+"
 			(at 0 2.33 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "7efed58b-9468-4c3a-8730-7155c93d506a")
 			(effects
 				(font
@@ -5278,22 +5278,6 @@
 		(layer "F.Cu")
 		(net 3)
 		(uuid "9cd6a797-7d47-42f9-9aa8-3f4526ae59b2")
-	)
-	(segment
-		(start 152.027 67.937)
-		(end 152.027 70.239)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "9edf38cc-5862-4769-86ea-9e0c91875a3c")
-	)
-	(segment
-		(start 133.096 69.088)
-		(end 134.247 67.937)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "e9766df7-b169-4874-bc9f-eb490730e8f5")
 	)
 	(segment
 		(start 135.474 69.088)
